@@ -41,9 +41,9 @@ export default function (UIkit) {
     UIkit.use(HeightMatch);
     UIkit.use(HeightViewport);
     UIkit.use(Margin);
-    UIkit.use(Gif);
-    UIkit.use(Grid);
-    UIkit.use(Leader);
+    // UIkit.use(Gif);
+    // UIkit.use(Grid);
+    // UIkit.use(Leader);
     UIkit.use(Modal);
     UIkit.use(Nav);
     UIkit.use(Navbar);
